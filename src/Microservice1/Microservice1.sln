@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservice1", "Microservice1.csproj", "{E49509B4-82ED-4E40-9172-6D28536AB143}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservice2", "..\Microservice2\Microservice2.csproj", "{1E50F1C4-FCFB-4583-B040-EC489CC3B439}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E49509B4-82ED-4E40-9172-6D28536AB143}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E49509B4-82ED-4E40-9172-6D28536AB143}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E49509B4-82ED-4E40-9172-6D28536AB143}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E50F1C4-FCFB-4583-B040-EC489CC3B439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E50F1C4-FCFB-4583-B040-EC489CC3B439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E50F1C4-FCFB-4583-B040-EC489CC3B439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E50F1C4-FCFB-4583-B040-EC489CC3B439}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
