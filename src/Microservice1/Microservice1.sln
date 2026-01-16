@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservice1", "Microservi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservice2", "..\Microservice2\Microservice2.csproj", "{1E50F1C4-FCFB-4583-B040-EC489CC3B439}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apigateway", "..\Apigateway\Apigateway.csproj", "{B4ACB2B8-3959-4CB5-9629-6D6CC6EB9720}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1E50F1C4-FCFB-4583-B040-EC489CC3B439}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E50F1C4-FCFB-4583-B040-EC489CC3B439}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E50F1C4-FCFB-4583-B040-EC489CC3B439}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4ACB2B8-3959-4CB5-9629-6D6CC6EB9720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4ACB2B8-3959-4CB5-9629-6D6CC6EB9720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4ACB2B8-3959-4CB5-9629-6D6CC6EB9720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4ACB2B8-3959-4CB5-9629-6D6CC6EB9720}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
